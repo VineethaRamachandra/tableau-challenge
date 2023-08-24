@@ -36,7 +36,7 @@ I have included the following visualizations:
 	i. Map showing Popular Bike Station locations.
 	j. I have also added a Story and a Dashboard
 
-	3. Screenshot of all the above Visualizations is copied under folder "Visualization Images" subfolder.
+	3. Screenshot of all the above Visualizations is copied under "Visualization Images" subfolder.
 	4. Module18-Homework.twbx  - Tableau Workbook file.
 	5. Link to my Public Tableau site which contains solution for Module 18 Homework: 
 	6. https://public.tableau.com/app/profile/vineetha.ramachandra/viz/Module18-Homework/NewYorkCitibikeUsageVisualizationstory?publish=yes
